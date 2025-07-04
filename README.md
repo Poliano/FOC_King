@@ -13,6 +13,7 @@ While building this board, I decided to take detailed photos at each step of the
 
 **Front View with Motor Wires Connected**
 ![Front with motor wires attached](https://github.com/Poliano/FOC_King/blob/master/foc16.jpeg?raw=true)![Side view with motor wires](https://github.com/Poliano/FOC_King/blob/master/foc15.jpeg?raw=true)
+(Make sure the Motor wires don't touch  other solder connections, not as shown)
 
 **Bottom View with MOSFETs**
 ![Bottom of the board](https://github.com/Poliano/FOC_King/blob/master/foc19.jpeg?raw=true)![Bottom with motor wires attached](https://github.com/Poliano/FOC_King/blob/master/foc17.jpeg?raw=true)
